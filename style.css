@@ -1,0 +1,93 @@
+body{
+    background-color: #f0f8ff; 
+    font-family: Arial, sans-serif;
+    color: #333; 
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+
+}
+
+.red-button{
+    position: absolute; 
+    left: 85%; 
+    top: 50%;
+    background-color: red; 
+    padding: 20px 40px;
+    font-weight: bold; 
+    color: white;
+    font-size: 10px; 
+    cursor: pointer;
+    
+}
+
+
+button{
+    background-color : red;
+    font-size: 20px;
+    color: #ffffff;
+    background: linear-gradient(#6a11cb, #2575fc); 
+    border: groove;
+    border-radius: 25px; 
+    cursor: pointer;
+    letter-spacing: 1;
+
+}
+
+.button1{
+    position: absolute;
+    height: 10%;
+    width: 30%;
+    left: 0%;
+    bottom: 92%;
+}
+
+.button2{
+    position: absolute;
+    height: 10%;
+    width: 30%;
+    left: 25%;
+    bottom: 92%;
+}
+
+.button3{
+    position: absolute;
+    height: 10%;
+    width: 30%;
+    left: 50%;
+    bottom: 92%;
+}
+
+.button4{
+    position: absolute;
+    height: 10%;
+    width: 30%;
+    left: 75%;
+    bottom: 92%;
+}
+
+.sad-image{
+
+   display: block;
+   margin: auto;
+   padding: 100px; 
+
+   right: 50%;
+
+   height: 50%;
+   width: 50%;
+   
+}
+
+h1 {
+    font-size: 35px;
+    color: purple;
+    font-weight: bold; 
+    font-family: 'Roboto';
+    background: linear-gradient(blue #7bfed2); 
+    padding: 30px; 
+    border-radius: 10px;
+}
+
